@@ -1,18 +1,19 @@
-## Hi , I'm Harsh 👋
- BMS student
-Cloud & Cybersecurity learner 
-Exploring clopud infrastructure, security fundamentals , and real-world projects
+## Hi , I'm Harsh Deep
+Cloud
+Exploring cloud infrastructure, and real-world projects
 
 ---
 ##  Current Focus
--Google Cybersecurity Professional Certificate
+- AZURE : Cloud Fundamentals AZ 900
 - Networking & security fundamentals
 - - Hnands-on labs and documentation
   ---
 ## Skills (Learning)
-- Cybersecurity basics
+- Azure Cloud Fundamentals
 - Networking fundamentals
 - Linux basics (AWS / Azure / GCP - upcoming )
+- Git/GitHub
+- MongoDB
 
 ---
 ## Learning Approach 
@@ -24,37 +25,27 @@ Connect with me
 - LinkedIn :
 https://www.linkedin.com/in/harsh-deep-936199249
 
-# Cybersecurity Learning Journey
 
-This repository documents my learning while pursuing the  
-*Google Cybersecurity Professional Certificate*.
-
----
 
 ##  What You'll Find Here
--    Notes on cybersecurity concepts
 -    Lab summaries and hands-on exercises
-- 🛠️ Mini projects and practical implementations
+-  Mini projects and practical implementations
 
 ---
 
 ##  Structure
- - notes/ - Theory & explanations
- - labs/  - Practical exercises
+
  - projects/  - Mini and Major projects
- ---
+ --- 
 
 ##  Goal
-To build a strong foundation in cybersecurity and gradually move into  
-cloud security and infrastructure roles.
+To build a strong foundation in cloud security and infrastructure roles.
 
 ---
 
-## 🕒 Progress
-- [ ] Course started
-- [ ] Security fundamentals
-- [ ] Networking basics
-- [ ] First mini project
+##  Progress
+- [x] Course started
+- [x] First mini project : KAAVAL
 
 
       Thanks!
