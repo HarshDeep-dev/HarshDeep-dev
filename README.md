@@ -6,7 +6,7 @@ Exploring cloud infrastructure, and real-world projects
 ##  Current Focus
 - AZURE : Cloud Fundamentals AZ 900
 - Networking & security fundamentals
-- - Hnands-on labs and documentation
+- Hands-on labs and documentation
   ---
 ## Skills (Learning)
 - Azure Cloud Fundamentals
