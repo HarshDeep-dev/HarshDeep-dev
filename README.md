@@ -15,7 +15,7 @@ Exploring cloud infrastructure, and real-world projects
 - Git/GitHub
 - MongoDB
 - 
- [![My Skills](https://skillicons.dev/icons?i=react,python,js,cpp,webpack,mysql,ts,aws,cs,django,github,git,laravel,html,css,bootstrap,tailwind,jquery,mongodb,nodejs,php,vscode,wordpress,vue,sass,graphql,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,python,github,git,bootstrap,mongodb,vscode,postgres)](https://skillicons.dev)
 
 ---
 ## Learning Approach 
