@@ -18,6 +18,8 @@ Exploring cloud infrastructure, and real-world projects
 - RAG
 - Artificial Intelligence
 - API Development
+
+  
  [![My Skills](https://skillicons.dev/icons?i=react,python,github,git,bootstrap,mongodb,vscode,Mysql)](https://skillicons.dev)
 
 ---
