@@ -11,11 +11,14 @@ Exploring cloud infrastructure, and real-world projects
 ## Skills (Learning)
 - Azure Cloud Fundamentals
 - Networking fundamentals
-- Linux basics (AWS / Azure / GCP - upcoming )
+- Linux basics ( Azure / GCP )
 - Git/GitHub
 - MongoDB
-- 
- [![My Skills](https://skillicons.dev/icons?i=react,python,github,git,bootstrap,mongodb,vscode,postgres)](https://skillicons.dev)
+- MySQL
+- RAG
+- Artificial Intelligence
+- API Development
+ [![My Skills](https://skillicons.dev/icons?i=react,python,github,git,bootstrap,mongodb,vscode,Mysql)](https://skillicons.dev)
 
 ---
 ## Learning Approach 
@@ -33,20 +36,14 @@ https://www.linkedin.com/in/harsh-deep-936199249
 -    Lab summaries and hands-on exercises
 -  Mini projects and practical implementations
 
----
-
-##  Structure
-
- - projects/  - Mini and Major projects
  --- 
 
 ##  Goal
-To build a strong foundation in cloud security and infrastructure roles.
+To build a strong foundation in Cloud ,AI  and Data roles.
 
 ---
 
 ##  Progress
-- [x] Course started
 - [x] First mini project : KAAVAL
 
 
